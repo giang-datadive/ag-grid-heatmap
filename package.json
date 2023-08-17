@@ -12,14 +12,30 @@
     "@types/node": "20.5.0",
     "@types/react": "18.2.20",
     "@types/react-dom": "18.2.7",
+    "ag-grid-community": "^27.3.0",
+    "ag-grid-enterprise": "^27.3.0",
+    "ag-grid-react": "^27.3.0",
+    "antd": "5.2.3",
     "autoprefixer": "10.4.15",
+    "classnames": "^2.3.1",
+    "date-fns": "^2.30.0",
+    "date-fns-tz": "^2.0.0",
     "eslint": "8.47.0",
     "eslint-config-next": "13.4.16",
+    "lodash": "^4.17.21",
     "next": "13.4.16",
     "postcss": "8.4.28",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "tailwindcss": "3.3.3",
+    "react-toastify": "^9.1.3",
+    "react-use": "^17.4.0",
+    "recoil": "^0.7.7",
+    "sass": "^1.65.1",
+    "tailwindcss": "^3.3.3",
     "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.197",
+    "prettier": "^2.5.1"
   }
 }
